@@ -1,0 +1,82 @@
+{
+  "id": "a47d5530-0e72-4806-a133-97079e4c6139",
+  "name": "3SCDevelopment",
+  "publisher": "KPPL",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id":  "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name":  "Base Application",
+      "publisher":  "Microsoft",
+      "version":  "22.3.58346.58453"
+    },
+    {
+        "id":  "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+        "name":  "System Application",
+        "publisher":  "Microsoft",
+        "version":  "22.3.58346.58453"
+    },
+    {
+        "id":  "d3c551dd-5903-4194-b153-04ced9d29a2c",
+        "name":  "India Tax Base",
+        "publisher":  "Microsoft",
+        "version":  "22.3.58346.58453"
+    },
+    {
+        "id":  "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+        "name":  "India GST",
+        "publisher":  "Microsoft",
+        "version":  "22.3.58346.58453"
+    },
+    {
+        "id":  "eae5779e-7797-4c4c-977e-7516652b7a65",
+        "name":  "India TDS",
+        "publisher":  "Microsoft",
+        "version":  "22.3.58346.58453"
+    },
+    {
+        "id":  "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+        "name":  "India TCS",
+        "publisher":  "Microsoft",
+        "version":  "22.3.58346.58453"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "name": "India Reports",
+      "version": "22.3.58346.58453",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "version": "22.3.58346.58453",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "OnPrem"
+}
